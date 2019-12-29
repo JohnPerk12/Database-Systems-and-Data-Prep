@@ -1,5 +1,3 @@
-cd '/Users/johnperkins/Dropbox (Personal)/Northwestern/5. Fall 2017/PREDICT 420/Assignment 1'
-
 import pandas as pd
 import xlrd
 
